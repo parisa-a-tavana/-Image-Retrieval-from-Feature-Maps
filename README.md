@@ -43,13 +43,13 @@ The end is visible.
 <br>
 __Retrieved Images__:
 <br>
-![Image 2](pictures/pictures/retrived_train.jpg.jpg)
+![Image 2](pictures/retrived_train.jpg.jpg)
 <br>
 <br>
-![Image 3](pictures/pictures/retrived_eval.jpg.jpg)
+![Image 3](pictures/retrived_eval.jpg.jpg)
 <br>
 <br>
-![Image 4](pictures/pictures/retrived_test.jpg.jpg)
+![Image 4](pictures/retrived_test.jpg.jpg)
 <br>
 <br>
 As we can see in the pictures, the deeper the layer, the lower the quality of the created image.
