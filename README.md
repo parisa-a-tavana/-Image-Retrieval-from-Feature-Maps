@@ -22,6 +22,8 @@ Conv5: we use 6 deconv layers.
 fc8: we use 3 fully connected and 5 deconv layers.
 <br>
 <br>
+![Image 0](pictures/alexnet.jpg)
+<br>
 __Training__:
 <br>
 We use Optimizer: Adam and Loss: L2 in all three models. The more similar the output and input images are, 
@@ -43,13 +45,13 @@ The end is visible.
 <br>
 __Retrieved Images__:
 <br>
-![Image 2](pictures/retrived_train.jpg.jpg)
+![Image 2](pictures/retrived_train.jpg)
 <br>
 <br>
-![Image 3](pictures/retrived_eval.jpg.jpg)
+![Image 3](pictures/retrived_eval.jpg)
 <br>
 <br>
-![Image 4](pictures/retrived_test.jpg.jpg)
+![Image 4](pictures/retrived_test.jpg)
 <br>
 <br>
 As we can see in the pictures, the deeper the layer, the lower the quality of the created image.
