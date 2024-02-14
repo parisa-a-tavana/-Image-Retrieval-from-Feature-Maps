@@ -1,4 +1,4 @@
-# -Image-Retrieval-from-Feature-Maps
+# Image-Retrieval-from-Feature-Maps
 In this project, we use deconvolution layers to visualize the extracted features of different layers of AlxNet.
 <br>
 <br>
